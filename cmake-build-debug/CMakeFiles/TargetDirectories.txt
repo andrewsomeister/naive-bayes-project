@@ -1,0 +1,5 @@
+C:/Users/andre/OneDrive/Documents/Cinder/my-projects/naive-bayes-andrewsomeister/cmake-build-debug/CMakeFiles/naive-bayes-test.dir
+C:/Users/andre/OneDrive/Documents/Cinder/my-projects/naive-bayes-andrewsomeister/cmake-build-debug/CMakeFiles/train-model.dir
+C:/Users/andre/OneDrive/Documents/Cinder/my-projects/naive-bayes-andrewsomeister/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Documents/Cinder/my-projects/naive-bayes-andrewsomeister/cmake-build-debug/CMakeFiles/sketchpad-classifier.dir
+C:/Users/andre/OneDrive/Documents/Cinder/my-projects/naive-bayes-andrewsomeister/cmake-build-debug/CMakeFiles/rebuild_cache.dir
